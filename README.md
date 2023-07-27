@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Priscillasky/Priscillasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m interested in React,React Native, Django , Data Science, PHP, ML
 - 🌱 I’m currently learning Django , ML , React Native
 - 👯 I’m looking to collaborate on ...
