@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm @Priscillsky
 - 🔭 I’m interested in React,React Native, Django , Data Science, PHP, ML
 - 🌱 I’m currently learning Django , ML , React Native
 - 👯 I’m looking to collaborate on ...
